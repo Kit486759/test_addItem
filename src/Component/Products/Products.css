@@ -1,0 +1,16 @@
+.productBox {
+  height: 200px;
+  width: 400px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  float: left;
+  position: relative;
+}
+
+.productBox img {
+  height: 100px;
+  width: 100px;
+}
+/*# sourceMappingURL=Products.css.map */
